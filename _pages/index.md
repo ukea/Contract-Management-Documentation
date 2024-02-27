@@ -5,15 +5,21 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# 今承达·合同管理使用手册 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  查看我们的<span style="font-weight: bold">[官网](www.jincenda.com)</span>来更好地了解我们的产品。
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+本教程分为以下几个部分：
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+- [[前期准备]]
+- [[合同起草]]
+- [[合同审批]]
+- [[合同台帐]]
+- [[合同履行]]
+- [[合同报表]]
+- [[基础]]
 
 <strong>Recently updated notes</strong>
 
